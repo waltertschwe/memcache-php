@@ -2,7 +2,7 @@
     
     $mysqlHostname = "localhost";
 	$mysqlUser = "root";
-	$mysqlPassword = "%NN6prxt5";
+	$mysqlPassword = "###";
 	$mysqlDatabase = "memcache";
 	$bd = mysql_connect($mysqlHostname, $mysqlUser, $mysqlPassword)  or die("Opps some thing went wrong");
 	mysql_select_db($mysqlDatabase, $bd) or die("Opps some thing went wrong");
