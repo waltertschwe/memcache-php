@@ -1,5 +1,5 @@
 <?php 
-    
+    // memcache example     
     $mysqlHostname = "localhost";
 	$mysqlUser = "root";
 	$mysqlPassword = "###";
